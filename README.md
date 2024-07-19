@@ -31,12 +31,13 @@ Features
     
 Code Highlights:
 
-Comparable Interface
+Comparable Interface -
+
   The implements keyword in Java allows access to an interface, such as Comparable.
     o Similar to a class but contains empty methods to be defined with @Override.
     o	The compareTo method, part of the Comparable interface, enables object comparison.
     
-  compareTo Method:
+  compareTo Method -
 
   The compareTo method is used for sorting Transactions objects by date.
       •	Utilizes the compareTo method from LocalDate for date comparison.
